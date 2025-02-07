@@ -7,3 +7,8 @@ Answer: Git is commonly used for projects with multiple collaborators where
 	to one part of the project and make debugging easier. In a classroom
 	setting, Git would be helpful in backing up projects, hosting 
 	group projects, and keeping track of bugs.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Healthcare is a field with many data science applications. For example,
+	patient data can be used for disease prevention and genomics.
