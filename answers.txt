@@ -1,0 +1,9 @@
+Q1: Why might we consider using Git?
+
+Answer: Git is commonly used for projects with multiple collaborators where 
+	it would be helpful to keep track of edit history. In addition, having
+	multiple branches allows programmers to work on separate features
+	simultaneously and merge them when ready, as well as to isolate issues
+	to one part of the project and make debugging easier. In a classroom
+	setting, Git would be helpful in backing up projects, hosting 
+	group projects, and keeping track of bugs.
