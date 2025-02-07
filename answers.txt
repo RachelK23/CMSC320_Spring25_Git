@@ -12,3 +12,8 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: Healthcare is a field with many data science applications. For example,
 	patient data can be used for disease prevention and genomics.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Git merge creates an additional commit to merge two branches together. Git rebase creates a more linear commit 
+	history by updating the start of your branch to a commit that occurred after the branch was created.
